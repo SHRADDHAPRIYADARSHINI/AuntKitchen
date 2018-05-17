@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_chome"
+
+        android:title="@string/home" />
+    <item
+        android:id="@+id/nav_corders"
+
+        android:title="@string/myordersmenu" />
+    <item
+        android:id="@+id/nav_cprofile"
+
+        android:title="@string/myprofilemenu" />
+    <item
+        android:id="@+id/nav_cabout"
+
+        android:title="@string/abtapp" />
+
+
+</menu>
